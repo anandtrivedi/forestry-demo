@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/01/09/stock-photo-business-people-working-together-on-creative-office-desk-660361369.jpg"
+banner_image: "/uploads/2019/01/09/earth-geography-map-87652.jpg"
 layout: landing-page
 heading: SpatializeIt
 partners:
