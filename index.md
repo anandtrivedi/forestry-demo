@@ -3,10 +3,7 @@ title: Home
 banner_image: "/uploads/2019/01/09/earth-geography-map-87652.jpg"
 layout: landing-page
 heading: SpatializeIt
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - heading: GIS Analysis
   description: ''
