@@ -12,13 +12,21 @@ services:
   description: ''
   icon: ''
 - description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+  heading: GIS Solutions Design
+  icon: ''
+- heading: GIS Software Development
+  description: ''
+  icon: ''
+- description: ''
+  heading: Geodatabase Design & Development
+  icon: ''
+- heading: Systems Integration
+  description: ''
+  icon: ''
+- heading: GIS Staff Augmentation
+  description: ''
+  icon: ''
 sub_heading: Spatialize Your World!
 textline: "SpatializeIT is a experience-backed technology firm specializing in leading-edge
   design and development of spatial, GIS based solutions. Geographical Information
