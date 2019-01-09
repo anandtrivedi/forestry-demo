@@ -78,3 +78,4 @@ fields:
   default: home
 pages:
 - index.md
+- client.md
