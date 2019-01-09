@@ -4,11 +4,12 @@ date: 2016-04-20 00:00:00 +0000
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2019/01/09/upslong-1.png"
+banner_image: "/uploads/2019/01/09/UPSL.png"
 sub_heading: Spatializing UPS routes
 tags:
 - Projects
-- OneOfAKind
+- Transportation
+- Logistics
 slug: ''
 
 ---
