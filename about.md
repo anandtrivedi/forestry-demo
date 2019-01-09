@@ -9,6 +9,14 @@ textline: SpatializeIt - A boutique firm specializing in GIS
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
 services:
+- heading: Our People
+  description: We are a boutique firm and people are our biggest asset. We have only
+    the brightest GIS staff who have repeatedly excelled at what they do. They are
+    known throughout our industry for their unmatched ability to deliver consistent
+    results.  Thanks to our size, we are able to deliver the ultimate flexibility.
+    We can make changes to our products and organization as the industry and our clients
+    demand.
+  icon: ''
 - heading: What We Do
   icon: ''
   description: Our team specializes in GIS-based, enterprise-level software development
