@@ -8,6 +8,14 @@ layout: landing-page
 textline: SpatializeIt - A boutique firm specializing in GIS
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
+services:
+- heading: What We Do
+  icon: ''
+  description: Our team specializes in GIS-based, enterprise-level software development
+    that takes your concept from the drawing board to a fluidly working process. We
+    deliver the solutions you need perfectly designed for the complex tasks you face
+    each day. Now you can get more work completed with far greater efficiency and
+    precision. In the end, this means greater profits and accolades for you.
 menu:
   footer:
     identifier: _about
