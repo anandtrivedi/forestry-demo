@@ -31,3 +31,4 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+google_maps_javascript_api_key: "AIzaSyCFiqRBLbka833esQwaFcsi0CSrZjM_W7E"
