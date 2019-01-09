@@ -13,7 +13,7 @@ slug: ''
 ---
 ## Overview
 
-SpatializeIT helped developing the GIS infrastructure necessary to enable collection of high precision GPS data and build workflows to do automated QA/QC, integrate it with existing GIS infrastructure as well as enabling the field usage of the same using mobile devices. 
+SpatializeIT helped developing the GIS infrastructure necessary to enable collection of high precision GPS data, ETL GPS data into GIS, build workflows to do automated QA/QC, integrate it with existing GIS infrastructure as well as enabling the field usage of the same using mobile devices.
 
 ## References
 
