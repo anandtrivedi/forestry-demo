@@ -13,6 +13,6 @@ menu:
 ---
 ## Contact Information
 
-{% include google-map.html latitude=39.080401 longitude= -77.499901zoom=5 %}
+{% include google-map.html latitude=39.080401 longitude=-77.499901 zoom=5 %}
 
 {% include address.html %}
