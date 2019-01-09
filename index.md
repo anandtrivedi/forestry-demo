@@ -1,13 +1,16 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/01/09/stock-photo-business-people-working-together-on-creative-office-desk-660361369.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: SpatializeIt
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: GIS Analysis
+  description: ''
+  icon: ''
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
@@ -16,17 +19,22 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Belkirk College of Engineering
-  
-  Ora et Labora
+sub_heading: Spatialize Your World!
+textline: "SpatializeIT is a experience-backed technology firm specializing in leading-edge
+  design and development of spatial, GIS based solutions. Geographical Information
+  Systems are our specialty where we create software to capture, store, manipulate,
+  analyze, manage, and present all types of spatial or geographical data.  \n  \nWe
+  are well known for creating custom GIS products for a broad range of industries.
+  From the initial step of understanding your business needs and challenges, to designing
+  and delivering a custom GIS solution – Spatialize IT delivers what you need."
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
