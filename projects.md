@@ -3,6 +3,7 @@ title: Projects
 layout: projects
 description: Projects by Belkirk College
 publish_date: 2017-11-01 03:00:00 +0000
+banner_image: "/uploads/2019/01/09/business-conference-learning-7095.jpg"
 menu:
   navigation:
     identifier: _projects
