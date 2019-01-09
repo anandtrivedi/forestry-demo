@@ -27,7 +27,7 @@ services:
 - heading: GIS Staff Augmentation
   description: ''
   icon: ''
-sub_heading: Spatialize Your World!
+sub_heading: Visualize Your World!
 textline: "SpatializeIT is a experience-backed technology firm specializing in leading-edge
   design and development of spatial, GIS based solutions. Geographical Information
   Systems are our specialty where we create software to capture, store, manipulate,
