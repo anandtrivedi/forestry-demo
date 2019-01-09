@@ -1,5 +1,5 @@
 ---
-title: Home
+title: SpatializeIt - Home
 banner_image: "/uploads/2019/01/09/earth-geography-map-87652.jpg"
 layout: landing-page
 heading: SpatializeIt
