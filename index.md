@@ -11,8 +11,7 @@ services:
 - heading: GIS Analysis
   description: ''
   icon: ''
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
+- description: ''
   heading: GIS Solutions Design
   icon: ''
 - heading: GIS Software Development
