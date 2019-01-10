@@ -7,7 +7,7 @@ banner_image: "/uploads/2019/01/09/business-conference-learning-7095.jpg"
 menu:
   navigation:
     identifier: _projects
-    weight: 4
+    weight: 3
   footer:
     identifier: _projects
     url: "/projects/"

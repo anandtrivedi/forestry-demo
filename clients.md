@@ -21,9 +21,6 @@ services: []
 show_news: false
 partners: []
 date: 2019-01-10 04:05:36 +0000
-menu:
-  navigation:
-    weight: 3
 
 ---
 Our consultants have achieved very successful with several public and private companies:
