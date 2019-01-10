@@ -23,9 +23,6 @@ services:
 - heading: GIS Staff Augmentation
   description: ''
   icon: ''
-- heading: ArcGIS Online
-  description: ''
-  icon: ''
 sub_heading: Visualize Your World!
 textline: ''
 hero_button:
