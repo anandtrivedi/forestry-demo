@@ -3,7 +3,7 @@ heading: Where we made a difference!
 sub_heading: ''
 banner_image: "/uploads/2019/01/09/2ZZAD2_1.jpg"
 layout: home
-title: Clients
+title: Clients2
 hero_button:
   text: ''
   href: ''
