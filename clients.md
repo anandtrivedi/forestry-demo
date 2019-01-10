@@ -3,7 +3,7 @@ heading: Where we made a difference!
 sub_heading: ''
 banner_image: "/uploads/2019/01/09/2ZZAD2_1.jpg"
 layout: home
-title: Clients2
+title: Clients
 hero_button:
   text: ''
   href: ''
@@ -21,5 +21,6 @@ services: []
 show_news: false
 partners: []
 date: 2019-01-10 04:05:36 +0000
+published: false
 
 ---
