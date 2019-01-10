@@ -36,6 +36,6 @@ menu:
     weight: 1
 
 ---
-SpatializeIT is a experience-backed technology firm specializing in leading-edge design and development of spatial, GIS based solutions. Geographical Information Systems are our specialty where we create software to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data.
+SpatializeIT is an experience-backed technology firm specializing in leading-edge design and development of spatial, GIS based solutions. Geographical Information Systems are our specialty where we create software to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data.
 
 We are well known for creating custom GIS products for a broad range of industries. From the initial step of understanding your business needs and challenges, to designing and delivering a custom GIS solution – Spatialize IT delivers what you need.
