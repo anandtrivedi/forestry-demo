@@ -77,5 +77,5 @@ fields:
   hidden: true
   default: home
 pages:
-- index.md
 - clients.md
+- index.md

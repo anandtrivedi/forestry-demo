@@ -32,7 +32,7 @@ services:
     to the casual mapmaker.
   icon: ''
 sub_heading: Visualize Your World!
-textline: Description is here
+textline: ''
 hero_button:
   text: Learn more
   href: "/about"
