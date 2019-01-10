@@ -74,7 +74,6 @@ fields:
   hidden: true
   default: home
 - type: include
-- type: image_gallery
 pages:
 - clients.md
 - index.md
