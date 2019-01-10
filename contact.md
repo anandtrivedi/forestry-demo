@@ -15,3 +15,10 @@ menu:
 
 {% include google-map.html latitude=39.080401 longitude=-77.499901 zoom=5 %}
 {% include address.html %}
+
+<form method="POST" action="https://formspree.io/info@spatializeit.com">
+  <input type="text" name="name">
+  <input type="email" name="email" placeholder="">
+  <textarea name="message" placeholder=""></textarea>
+  <button type="submit">Submit</button>
+</form>
