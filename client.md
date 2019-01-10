@@ -28,3 +28,12 @@ menu:
     weight: 3
 
 ---
+Our consultants have achieved very successful with several public and private companies:
+
+* Federal and State agencies
+* Leading transportation and logistics company
+* Leading wireless and telecommunication company
+* Big utility company spread across seven states
+* Leading consulting company
+
+Please contact us for a list of up to date client list
