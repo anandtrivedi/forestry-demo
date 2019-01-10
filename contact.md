@@ -17,8 +17,16 @@ menu:
 {% include address.html %}
 
 <form method="POST" action="https://formspree.io/info@spatializeit.com">
-  <input type="text" name="name">
+   <label for="fname">First Name</label>
+    <input type="text" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+   <label for="Email">Your Email</label>
   <input type="email" name="email" placeholder="">
-  <textarea name="message" placeholder=""></textarea>
+   <label for="Message">Subject</label>
+    <textarea  name="message" placeholder="" style="height:200px"></textarea>
+
+ 
   <button type="submit">Submit</button>
 </form>
