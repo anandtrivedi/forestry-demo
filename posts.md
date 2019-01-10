@@ -16,9 +16,6 @@ textline: |-
 
   Please contact us for a list of up to date client list
 menu:
-  navigation:
-    identifier: _posts
-    weight: 5
   footer:
     identifier: _posts
     weight: 3
