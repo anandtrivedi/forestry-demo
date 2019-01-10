@@ -24,7 +24,7 @@ services:
   description: ''
   icon: ''
 sub_heading: Visualize Your World!
-textline: ''
+textline: Description is here
 hero_button:
   text: Learn more
   href: "/about"
