@@ -23,6 +23,14 @@ services:
 - heading: GIS Staff Augmentation
   description: ''
   icon: ''
+- heading: ArcGIS Online
+  description: Organizations can leverage their investment in GIS by publishing their
+    maps and data for others to use in ArcGIS Online. At the same time, smaller organizations
+    and even individuals can share their data and maps as map services without having
+    to acquire their own GIS server software. ArcGIS Online provides access to powerful
+    capabilities that can be implemented by anyone, from professional GIS analysts
+    to the casual mapmaker.
+  icon: ''
 sub_heading: Visualize Your World!
 textline: Description is here
 hero_button:
