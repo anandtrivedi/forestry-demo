@@ -20,19 +20,3 @@
   {% if info.email %}<a href="mailto:{{ info.email }}" title="{{ info.email }}">{{ info.email }}</a>{% endif %}
 </p>
 {% endif %}
- <div class="container">
-<form method="POST" action="https://formspree.io/info@spatializeit.com">
-   <label for="fname">First Name</label>
-    <input type="text" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-   <label for="Email">Your Email</label>
-  <input type="email" name="email" placeholder="">
-   <label for="Message">Subject</label>
-    <textarea  name="message" placeholder="" style="height:200px"></textarea>
-
- 
-  <button type="submit">Submit</button>
-</form>
- </div>
