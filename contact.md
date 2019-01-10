@@ -13,9 +13,10 @@ menu:
 ---
 ## Contact Information
 
-{% include google-map.html latitude=39.080401 longitude=-77.499901 zoom=5 %} {% include address.html %} ### CONTACT US   
-\#### Let's go spatializing! 
+{% include google-map.html latitude=39.080401 longitude=-77.499901 zoom=5 %} {% include address.html %}
 
+### CONTACT US 
+#### Let's go spatializing! 
 <div class="container"> <form method="POST" action="https://formspree.io/info@spatializeit.com"> <label for="fname">First Name</label> <input type="text" name="firstname" placeholder="Your name..">
 
     <label for="lname">Last Name</label>
